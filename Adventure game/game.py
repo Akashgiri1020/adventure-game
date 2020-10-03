@@ -27,7 +27,7 @@ def restart_game():
 
 
 def intro():
-    print_pause("you are Thor")
+    print_pause("you are Salman bhai ")
     print_pause("You find yourself standing in asgard")
     print_pause("The place is very deserted")
     print_pause(f"Rumor has it that Loki the magician is live inside a palace, "
